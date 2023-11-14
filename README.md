@@ -1,2 +1,2 @@
-# Swift---CS193p
-Stanford CS193p
+# Swift - CS193p
+
